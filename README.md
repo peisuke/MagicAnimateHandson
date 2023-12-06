@@ -7,7 +7,7 @@
 ## DensePoseで姿勢推定
 ここのソースコードをコピーして使うと良い。ちなみに、DumpActionをimportするとavが足りないと言われる。インストールしてあるのに。怒られてから、もっかいpip installすると動くみたい。
 
-https://github.com/peisuke/MagicAnimateHandson/assets/14243883/1f7e8e31-ce81-4f6a-b822-875c9cacbb22
+<img width="487" alt="image" src="https://github.com/peisuke/MagicAnimateHandson/assets/14243883/98b55145-e499-4352-be8d-90a0bdfd5650">
 
 ## MagicAnimateで動画の作成
 
