@@ -23,4 +23,7 @@ https://github.com/peisuke/MagicAnimateHandson/assets/14243883/dedfc143-c8b2-418
 
 ## MagicAnimateで動画の作成
 
-TBD
+04を動かしてみる。02と同じように入力ファイル名を変える。
+
+https://github.com/peisuke/MagicAnimateHandson/assets/14243883/80ee4112-8fd3-4ae9-a56b-c7293c4c5399
+
